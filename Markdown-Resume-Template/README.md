@@ -5,19 +5,19 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：29  
-* 手 机：18825039498 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：eatage@qq.com    
+* 手 机：18825039498 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;  邮 箱：eatage@qq.com    
 * 专 业：计算机软件 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：开发工程师
 
 ## 工作及教育经历
 
-* 广东轻工职业技术学院&emsp;&emsp;&emsp;&emsp;&emsp;2011.9~2014.7&emsp;&emsp;&emsp;&emsp; 计算机软件与应用-专科  
+* 广东轻工职业技术学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011.9~2014.7&emsp;&emsp;&emsp;&emsp; 计算机软件与应用-专科  
 * 广州国宇软件技术服务有限公司&emsp;&emsp;2015.3~2021.11&emsp;&emsp;&emsp;&emsp; 开发工程师  
 ## 专业技能
 
 * 熟练使用 C#/.NET，了解 JavaScritp 等编程语言
 * 了解SqlServer、MySql的设计与操作、优化等
 * 掌握基础数据结构和算法的基本原理
-* 等等
+* 能独立解决遇到的技术难题
 
 ## 项目经历
 
@@ -46,7 +46,7 @@
     * 初次接触各大电商平台接口，主要难题是需要了解电商系统的结构、流程。需要了解各平台的接口文档，调试对接等，最后还要和本地ERP系统进行整合。
     * 为客户定制电商软件，解决部分客户需求
 
-6. 平板质检系统，产品放窜系统等
+6. 公司运维系统、平板质检系统，产品放窜系统以及其他公司交给的任务
 
 ## 个人账号 
 * github 地址 https://github.com/eatage
