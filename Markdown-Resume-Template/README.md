@@ -14,7 +14,7 @@
 * 广州国宇软件技术服务有限公司&emsp;&emsp;2015.3~2021.11&emsp;&emsp;&emsp;&emsp; 开发工程师  
 ## 专业技能
 
-* 熟练使用 C#/.NET，了解 JavaScritp 等编程语言
+* 熟练使用 C#/.NET、.NET Core，了解 JavaScritp 等编程语言
 * 了解SqlServer、MySql、Sqlite的设计与操作、优化等
 * 掌握基础数据结构和算法的基本原理
 * 能独立解决遇到的技术难题
@@ -59,3 +59,4 @@
 ## 其他信息 
 * 喜欢钻研技术、喜欢了解最新技术动态等 
 
+[线上版本](https://github.com/eatage/resume/tree/main/Markdown-Resume-Template)
