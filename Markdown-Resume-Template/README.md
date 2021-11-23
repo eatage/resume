@@ -59,4 +59,4 @@
 ## 其他信息 
 * 喜欢钻研技术、喜欢了解最新技术动态等 
 
-[线上版本](https://github.com/eatage/resume/tree/main/Markdown-Resume-Template)
+<!-- [线上版本](https://github.com/eatage/resume/tree/main/Markdown-Resume-Template)-->
